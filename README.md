@@ -18,12 +18,13 @@ With the job market growing increasingly competitive, **knowing where the top sa
 
 ## 📁 Repository Structure
 
-| File | Description |
-|------|-------------|
-| `1_top_paying_jobs.sql` | Retrieves the top 10 highest-paying **remote** Data Analyst jobs |
-| `2_skills_required_for_top_jobs.sql` | Reveals the **specific skillsets** required for these top-paying roles |
-| `3_top_demanded_skills.sql` | Identifies the **10 most frequently required** skills for Data Analyst roles |
-| `4_top_paying_skills.sql` | Calculates the **average salary associated with each skill** |
+| File                                 | Description                                                                   |
+| ------------------------------------ | ----------------------------------------------------------------------------- |
+| `1_top_paying_jobs.sql`              | Retrieves the top 10 highest-paying **remote** Data Analyst jobs              |
+| `2_skills_required_for_top_jobs.sql` | Reveals the **specific skillsets** required for these top-paying roles        |
+| `3_top_demanded_skills.sql`          | Identifies the **10 most frequently required** skills for Data Analyst roles  |
+| `4_top_paying_skills.sql`            | Calculates the **average salary associated with each skill**                  |
+| `5_most_optimal_skills.sql`          | Finds the **most optimal skills** that are both **in-demand and highly paid** |
 
 ---
 
@@ -37,22 +38,22 @@ With the job market growing increasingly competitive, **knowing where the top sa
 
 ### 🔹 Skills That Employers Want Most
 
-| Skill      | Occurrence Count |
-|------------|------------------|
-| `SQL`      | ✅ Most in-demand |
-| `Python`   | 🧠 Widely expected for analysis and modeling |
-| `Tableau`  | 📊 Vital for BI & dashboards |
-| `Excel`    | 📎 Still essential! |
+| Skill     | Occurrence Count                             |
+| --------- | -------------------------------------------- |
+| `SQL`     | ✅ Most in-demand                            |
+| `Python`  | 🧠 Widely expected for analysis and modeling |
+| `Tableau` | 📊 Vital for BI & dashboards                 |
+| `Excel`   | 📎 Still essential!                          |
 
 ### 🔹 Skills That Pay the Most 💵
 
-| Skill        | Avg. Salary ($/year) |
-|--------------|----------------------|
-| `SVN`        | 400,000              |
-| `Solidity`   | 199,000              |
-| `Golang`     | 195,000              |
-| `Keras`      | 180,000              |
-| `Terraform`  | 170,000              |
+| Skill       | Avg. Salary ($/year) |
+| ----------- | -------------------- |
+| `SVN`       | 400,000              |
+| `Solidity`  | 199,000              |
+| `Golang`    | 195,000              |
+| `Keras`     | 180,000              |
+| `Terraform` | 170,000              |
 
 > 🔍 **Key Insight**: Skills in **blockchain**, **machine learning**, and **DevOps-oriented data infrastructure** can dramatically increase your earning potential.
 
@@ -94,7 +95,5 @@ Hi, I’m a **data-focused developer and analyst** passionate about turning real
 
 ## ⭐ Like what you see?
 
-If this repo helped you or inspired your next project:
+If this repo helped you or inspired your next project:  
 **Give it a ⭐ & share it with others in tech!**
-
-

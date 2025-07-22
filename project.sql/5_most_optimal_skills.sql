@@ -1,5 +1,4 @@
 -- Identifies skills in high demand for Data Analyst roles
--- Use Query #3 (but modified)
 WITH skills_demand AS (
     SELECT
         skills_dim.skill_id,
@@ -43,5 +42,4 @@ ORDER BY
     demand_count DESC,
     avg_salary DESC
 LIMIT
-    10 --Limit 25
-;
+    10;

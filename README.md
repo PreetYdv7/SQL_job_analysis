@@ -76,10 +76,8 @@ This interactive dashboard was built in Power BI to complement the SQL findings 
 
 > Want to explore it locally?
 
-- 📁 [Download the Power BI Report (.pbix)](./Job_Market_Analysis.pbix)
-- 📄 [Optional PDF Version](./Job_Market_Analysis.pdf)
-
----
+- 📁 [Download the Power BI Report (.pbix)](./powerBI%20Dashboards/Job_market_analysis.pbix)
+- 📄 [Optional PDF Version](./powerBI%20Dashboards/Job_market_analysis.pdf)
 
 ## 🧠 Technologies Used
 
